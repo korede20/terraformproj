@@ -1,7 +1,0 @@
-# Local .terraform directories
-**/.terraform/*
-**/.terraform/terraformproj/modules/test/.gitignore*
-
-# .tfstate files
-*.tfstate
-*.tfstate.*
